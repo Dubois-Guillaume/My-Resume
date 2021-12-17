@@ -156,6 +156,7 @@ body {
   line-height: 44px;
   color: #ffffff;
   text-align: center;
+  font-family: roboto;
 }
 
 @media screen and (max-width: 1440px) {
@@ -194,6 +195,7 @@ body {
   line-height: 44px;
   color: #ffffff;
   text-align: center;
+  font-family: roboto;
 }
 
 #Anciennevie .left ul li {
@@ -229,6 +231,7 @@ body {
   color: white;
   margin-top: 16px;
   margin-bottom: 16px;
+  font-family: roboto;
 }
 
 #préférences ol {
@@ -285,6 +288,7 @@ body {
   font-size: 24px;
   line-height: 41px;
   color: #ffffff;
+  font-family: roboto;
 }
 
 #devWeb .right ul li {
@@ -325,6 +329,7 @@ body {
   line-height: 41px;
   color: #ffffff;
   margin-top: 16px;
+  font-family: roboto;
 }
 
 footer {
@@ -346,6 +351,7 @@ footer p {
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  font-family: roboto;
 }
 
 footer a:link {
